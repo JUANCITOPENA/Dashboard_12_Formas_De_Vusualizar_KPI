@@ -136,4 +136,20 @@ Enlace al Proyecto: [https://github.com/TU_USUARIO/TU_REPOSITORIO](https://githu
 
 ---
 
+## 🙏 Agradecimientos y Créditos Especiales
+
+Este proyecto, aunque desarrollado desde cero con las tecnologías mencionadas, se ha inspirado y ha tomado ideas visuales de varios trabajos y diseñadores talentosos en la comunidad de visualización de datos. Queremos expresar nuestro sincero agradecimiento a:
+
+*   **Maksim Perapialitsa**: Por la inspiración general en el diseño y la estructura visual del dashboard. Su trabajo es una referencia en claridad y efectividad.
+    *   Puedes ver un ejemplo de su enfoque en este [diseño original](https://lookerstudio.google.com/reporting/0c7b52c8-dc1e-4a07-84c4-829ae1d6dc6e/page/p_fy2mducisd) que sirvió como una de las fuentes de inspiración.
+*   **Siavak.com**: Por las ideas conceptuales para pop-ups de visualización comunitaria y la interacción con datos.
+*   **Mehdi Oudjida**: Por la inspiración en el diseño de gráficos de líneas que muestran mínimos y máximos de manera efectiva.
+*   **Ellen Blackburn**: Por sus aportes y paletas categóricas que influyeron en la selección de colores y la estética visual.
+
+Un agradecimiento especial también a **Irene Diomi, Chimdi Nwosu, y Harry Beardon** por sus contribuciones y debates en la comunidad de visualización de datos, que siempre impulsan la creatividad y la excelencia.
+
+Este dashboard es un esfuerzo por aplicar y combinar algunas de estas brillantes ideas en un proyecto funcional y educativo. ¡La visualización de datos es un campo colaborativo y estamos agradecidos por la inspiración que la comunidad proporciona! 🌟
+
+---
+
 ¡Gracias por darle un vistazo a este Dashboard de KPIs! Esperamos que te sirva de inspiración y como una herramienta útil. ¡Feliz codificación! 👨‍💻✨
