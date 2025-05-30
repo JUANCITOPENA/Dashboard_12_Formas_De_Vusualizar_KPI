@@ -129,7 +129,7 @@ Distribuido bajo la Licencia MIT. Ver el archivo `LICENSE` (si existe en tu repo
 **Juancito Peña**
 
 *   <img src="https://avatars.githubusercontent.com/u/38921558?s=20&v=4" width="20" height="20" alt="GitHub"/> GitHub: [@juancitopena](https://github.com/TU_USUARIO_GITHUB) <!-- Reemplaza con tu GitHub -->
-*   <img src="URL_ICONO_LINKEDIN_PEQUEÑO" width="20" height="20" alt="LinkedIn"/> LinkedIn: [Tu Perfil de LinkedIn](https://linkedin.com/in/TU_PERFIL_LINKEDIN) <!-- Reemplaza con tu LinkedIn -->
+*   <img src="https://www.linkedin.com/in/juancitope%C3%B1a/" width="20" height="20" alt="LinkedIn"/> LinkedIn: Juancito Peña V.(https://www.linkedin.com/in/juancitope%C3%B1a/]
 *   📧 Email: `tu_email@example.com` <!-- Reemplaza con tu email -->
 
 Enlace al Proyecto: [https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/TU_USUARIO/TU_REPOSITORIO) <!-- Reemplaza -->
