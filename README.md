@@ -66,10 +66,10 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1.  **Clonar el Repositorio**:
     ```bash
-    git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-    cd TU_REPOSITORIO 
+    git clone https://github.com/JUANCITOPENA/Dashboard_12_Formas_De_Vusualizar_KPI.git
+    cd Dashboard_12_Formas_De_Vusualizar_KPI 
     ```
-    *(Reemplaza `TU_USUARIO/TU_REPOSITORIO` con la URL real de tu proyecto).*
+ 
 
 2.  **Estructura de Archivos Esperada**:
     ```
