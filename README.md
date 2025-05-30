@@ -14,7 +14,7 @@ El dashboard ofrece una visión completa del desempeño, utilizando más de 12 t
 
 ---
 
-![Captura de Pantalla del Dashboard](https://i.imgur.com/YOUR_SCREENSHOT_URL.png)  <!-- 📸 REEMPLAZA ESTA URL con una captura de tu dashboard -->
+![Captura de Pantalla del Dashboard](Screenshot_494.png)  <!-- 📸 REEMPLAZA ESTA URL con una captura de tu dashboard -->
 
 ## ✨ Características Clave
 
