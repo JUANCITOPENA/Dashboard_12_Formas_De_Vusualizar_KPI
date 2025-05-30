@@ -18,19 +18,18 @@
 
 ## 🛠️ Tecnologías y Módulos Utilizados
 
-*   **Lenguajes Principales**:
-    *   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    *   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    *   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (Vanilla ES6+)
-*   **Bibliotecas de Gráficos**:
-    *   **ApexCharts.js**: Para la creación de los 12 tipos de gráficos interactivos y atractivos. 📈
-*   **Frameworks CSS (Auxiliar)**:
-    *   **Bootstrap 5**: Utilizado para el sistema de rejilla base, algunos componentes y estilos responsivos. 🅱️
-*   **Iconos**:
-    *   **Font Awesome**: Para los iconos utilizados en toda la interfaz. fontawesome.com <i class="fab fa-font-awesome-flag"></i>
-*   **Formato de Datos**:
-    *   **JSON**: Para la carga externa de los datos del dashboard. `{}`
-
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
+[![jsPDF](https://img.shields.io/badge/jsPDF-FF4444?style=for-the-badge)](https://github.com/parallax/jsPDF)
+[![html2canvas](https://img.shields.io/badge/html2canvas-F44336?style=for-the-badge)](https://html2canvas.hertzen.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+---
 ## 🚀 Empezando
 
 Para ejecutar este proyecto localmente, sigue estos sencillos pasos:
