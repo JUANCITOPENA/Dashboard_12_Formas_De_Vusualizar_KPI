@@ -18,7 +18,7 @@
                     12 Formas de Visualizar KPIs en
                     <i class="fab fa-js-square" style="color: #f0ad4e;"></i> JavaScript con 
                     <span class="text-danger">
-                        <i class="fas fa-chart-line"></i> Chart.js
+                        <i class="fas fa-chart-line"></i> ApexCharts
                     </span>
                 </h1>
                 <img src="https://avatars.githubusercontent.com/u/38921558?v=4" alt="Profile" width="50" height="50"
@@ -44,10 +44,15 @@
                 <div class="filter-item">
                     <select id="regionFilter" class="form-select form-select-sm">
                         <option selected value="all">Todas las Regiones</option>
-                        <option value="na">Norteamérica</option>
-                        <option value="eu">Europa</option>
+                        <option value="africa">África</option>
+                        <option value="america_norte">América del Norte</option>
+                        <option value="america_sur">América del Sur</option>
+                        <option value="latinoamerica">Latinoamérica</option>
                         <option value="asia">Asia</option>
+                        <option value="europa">Europa</option>
+                        <option value="oceania">Oceanía</option>
                     </select>
+
                 </div>
                 <button id="applyFilters" class="btn btn-primary btn-sm">Aplicar</button>
             </div>
@@ -60,21 +65,21 @@
             
             <!-- Fila 1 -->
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Series de Tiempo</p></div>
+                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Series de Tiempo y Tendencia</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartTimeSeries"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Meta</p></div>
+                <div class="card-header"><h5>Ingresos vs Meta</h5><p class="card-subtitle">KPI con Meta y Progreso Visual</p></div>
                 <h2>$0</h2><p class="change"></p>
                 <div class="target-bar-container"><div class="target-progress-bar"><div class="progress-fill" style="width: 0%;"></div></div><span class="target-value-label">$0</span></div>
                 <div id="chartTargetLine"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Series de Tiempo y Línea de Tendencia</p></div>
+                <div class="card-header"><h5>Ingresos y Tendencia</h5><p class="card-subtitle">KPI con Series de Tiempo y Línea de Tendencia Detallada</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartTimeSeriesTrendline"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Barra de Progreso</p></div>
+                <div class="card-header"><h5>Progreso al Objetivo General</h5><p class="card-subtitle">KPI con Barra de Progreso y Comparativa</p></div>
                 <h2>$0</h2><p class="change"></p>
                 <div class="progress-bar-kpi" style="margin-top: 10px;"><div class="progress" style="height: 20px;"><div class="progress-bar bg-danger" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div></div><span class="target-value-label-right">$0</span></div>
                 <div id="chartProgressLine"></div>
@@ -82,44 +87,44 @@
 
             <!-- Fila 2 -->
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico Combinado Apilado</p></div>
+                <div class="card-header"><h5>Desglose Trimestral</h5><p class="card-subtitle">KPI con Gráfico Combinado Apilado (Ventas, Costos, Beneficio)</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartStackedCombo"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Barras Verticales</p></div>
+                <div class="card-header"><h5>Ingresos Recientes</h5><p class="card-subtitle">KPI con Gráfico de Barras Verticales (Últimos Períodos)</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartVerticalBar"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Caja (Boxplot)</p></div>
+                <div class="card-header"><h5>Distribución Regional</h5><p class="card-subtitle">KPI con Gráfico de Caja (Boxplot) por Región</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartBoxplot"></div>
             </div>
             <div class="kpi-card"> 
                 <div class="card-header">
-                    <h5>Ingresos Totales</h5>
-                    <p class="card-subtitle">KPI w/ Top Channels (Vertical Bar)</p> 
+                    <h5>Top Canales de Ingreso</h5>
+                    <p class="card-subtitle">KPI con Barras Verticales de Canales Principales</p> 
                 </div>
                 <h2>$0</h2><p class="change"></p>
-                <p class="section-title"><strong>Top 3 Canales</strong></p>
+                <p class="section-title" style="margin-top: -5px; margin-bottom: 5px;"><strong>Top 3 Canales por % de Ingresos</strong></p>
                 <div id="chartTopChannelsVertical"></div> 
             </div>
 
             <!-- Fila 3 -->
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Dona</p></div>
+                <div class="card-header"><h5>Mix de Canales</h5><p class="card-subtitle">KPI con Gráfico de Dona y Etiquetas</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartDonut"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Barras Apiladas al 100%</p></div>
+                <div class="card-header"><h5>Composición Productos (Trimestral)</h5><p class="card-subtitle">KPI con Gráfico de Barras Apiladas al 100%</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartStackedBar100"></div>
             </div>
             <div class="kpi-card">
-                <div class="card-header"><h5>Ingresos Totales</h5><p class="card-subtitle">KPI con Gráfico de Áreas Apiladas al 100%</p></div>
+                <div class="card-header"><h5>Cuota de Mercado (Simulada)</h5><p class="card-subtitle">KPI con Gráfico de Áreas Apiladas al 100%</p></div>
                 <h2>$0</h2><p class="change"></p><div id="chartStackedArea100"></div>
             </div>
             <div class="kpi-card"> 
                 <div class="card-header">
-                    <h5>Rendimiento por Categoría</h5>
-                    <p class="card-subtitle">KPI con Barras Horizontales Apiladas</p> 
+                    <h5>Rendimiento por Categoría de Producto</h5>
+                    <p class="card-subtitle">KPI con Barras Horizontales (Actual vs Anterior)</p> 
                 </div>
                 <h2>$0</h2> 
                 <p class="change"></p> 
