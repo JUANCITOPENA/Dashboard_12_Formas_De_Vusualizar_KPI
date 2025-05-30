@@ -128,9 +128,17 @@ Distribuido bajo la Licencia MIT. Ver el archivo `LICENSE` (si existe en tu repo
 
 **Juancito Peña**
 
-*   <img src="https://avatars.githubusercontent.com/u/38921558?s=20&v=4" width="20" height="20" alt="GitHub"/> GitHub: [@juancitopena](https://github.com/TU_USUARIO_GITHUB) <!-- Reemplaza con tu GitHub -->
-*   <img src="https://www.linkedin.com/in/juancitope%C3%B1a/" width="20" height="20" alt="LinkedIn"/> LinkedIn: Juancito Peña V.(https://www.linkedin.com/in/juancitope%C3%B1a/]
-*   📧 Email: `tu_email@example.com` <!-- Reemplaza con tu email -->
+## 📬 Contacto
+
+**Juancito Peña**
+
+*   <img src="https://avatars.githubusercontent.com/u/38921558?s=20&v=4" width="20" height="20" alt="GitHub"/> GitHub: [@juancitopena](https://github.com/juancitopena) 
+*   💼 LinkedIn: [Juancito Peña V.](https://www.linkedin.com/in/juancitope%C3%B1a/)
+*   📧 Email: `juancito.pena@gmail.com`
+
+Enlace al Proyecto: [https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO](https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO) <!-- Reemplaza con el enlace real a tu repositorio -->
+
+--- 
 
 Enlace al Proyecto: [https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/TU_USUARIO/TU_REPOSITORIO) <!-- Reemplaza -->
 
