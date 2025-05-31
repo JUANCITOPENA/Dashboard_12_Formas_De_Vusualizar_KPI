@@ -136,11 +136,6 @@ Distribuido bajo la Licencia MIT. Ver el archivo `LICENSE` (si existe en tu repo
 *   📧 Email: `juancito.pena@gmail.com`
 
 Enlace al Proyecto: [https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO](https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO) <!-- Reemplaza con el enlace real a tu repositorio -->
-
---- 
-
-Enlace al Proyecto: [https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/TU_USUARIO/TU_REPOSITORIO) <!-- Reemplaza -->
-
 ---
 
 ## 🙏 Agradecimientos y Créditos Especiales
